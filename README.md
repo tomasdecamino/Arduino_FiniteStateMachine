@@ -1,2 +1,4 @@
 # Arduino_FiniteStateMachine
-UBa máquina de estados para Arduinos
+Una máquina de estados para Arduinos
+
+Curso Sistemas Empotrados Cenfotec
